@@ -1,2 +1,2 @@
-# Terpene-Effect-Prediction
+# Predicting Terpene Effects
 under construction
